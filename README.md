@@ -33,13 +33,15 @@ README.md # You're reading it!
 ## ▶️ How to Run
 
 1. Make sure you have Java installed (JDK 11+ recommended).
-
+  
 2. Compile the Java file:
+
    ```bash
    javac FerrySimulation.java
    ```
    
 3.Run the program:
+  
   ```bash
     java FerrySimulation
   ```
